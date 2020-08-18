@@ -1,0 +1,13 @@
+django-admin startproject webrtc
+django-admin startproject webrtc .
+pip3 install Pillow
+pip3 install django-extensions
+pip3 install djangorestframework
+pip3 install django-rest-auth
+pip3 install django-cors-headers
+pip3 install django-filter
+pip3 install django-froala-editor
+pip3 install django-ckeditor
+pip3 install fcm_django
+pip3 install mysqlclient
+LDFLAGS=-L/usr/local/opt/openssl/lib pip install mysqlclient
